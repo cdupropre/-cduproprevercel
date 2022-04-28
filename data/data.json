@@ -1,0 +1,104 @@
+{
+  "Header": {
+    "title": "C DU PROPRE PLUS",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "",
+    "Why": [
+      "Une intervention dans les 48 heures",
+      "Une garantie décennale",
+      "Devis d'installation gratuit"
+    ]
+  },
+  "Services": [
+     {
+      "icon": "fa fa-clock-o ",
+      "name": "Expérience",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-thumbs-up",
+      "name": "Travail de qualité",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-money",
+      "name": "Economie",
+      "text": ""
+    }
+  ],
+  "Price": [
+    {
+      "name": "Classique",
+      "text": "3 rubriques",
+      "text2": "4 blocs inclus"
+    },
+    {
+      "name": "Moderne",
+      "text": "5 rubriques",
+      "text2": "6 blocs inclus",
+      "text3": "et animations offert"
+    },
+    {
+      "name": "Sur-mesure",
+      "text": "Jusqu'à 10 rubriques",
+      "text2": "blocs inclus"
+    }
+  ],
+  "Prestations": [
+    {
+      "img": "img/inside-cleaning.jpg",
+      "name": "Nettoyage bureaux",
+      "path": "/nettoyage-bureaux",
+      "job": ""
+    },
+    {
+      "img": "img/moquette.jpg",
+      "name": "Nettoyage moquettes",
+      "path": "/nettoyage-moquettes",
+      "job": ""
+    },
+    {
+      "img": "img/vitre.jpg",
+      "name": "Nettoyage vitres",
+      "path": "/nettoyage-vitres",
+      "job": ""
+    },
+    {
+      "img": "/img/gravats/2.jpg",
+      "name": "Nettoyage après travaux",
+      "path": "/nettoyage-apres-travaux",
+      "job": ""
+    },
+     {
+       "img": "/img/encombrants/9.jpg",
+       "name": "Remise en état",
+       "path": "/remise-en-etat",
+       "job": ""
+     },
+     {
+       "img": "/img/cristallisation.jpg",
+       "name": "Cristallisation de sols",
+       "path": "/cristallisation",
+       "job": ""
+     }
+  ],
+  "Partenaires": [
+    {
+      "img": "img/azurec.jpg",
+      "name": "AZUR CLEANTEC",
+      "job": ""
+    },
+    {
+      "img": "img/ph.jpg",
+      "name": "PH 06",
+      "job": ""
+    }
+  ],
+  "Contact": {
+    "address": "12 Rue St Charles, 06160 Antibes",
+    "phone": "06 98 27 23 08",
+    "email": "c-du-propre@orange.fr"
+  }
+}

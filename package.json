@@ -1,18 +1,50 @@
 {
+  "name": "landingpage-react-template",
   "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.0",
+    "emailjs-com": "^3.2.0",
+    "firebase": "^9.6.8",
+    "font-awesome": "^4.7.0",
+    "i": "^0.3.7",
+    "next": "^12.1.0",
+    "next-sitemap": "^2.5.20",
+    "nodemailer": "^6.7.3",
+    "npm": "^8.1.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-responsive-carousel": "^3.2.23",
+    "styled-components": "^5.3.3",
+    "vercel": "^24.1.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "export": "next export",
+    "postbuild": "next-sitemap",
+    "deploy": "vercel --prod"
   },
-  "dependencies": {
-    "next": "12.1.4",
-    "react": "18.0.0",
-    "react-dom": "18.0.0"
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   },
   "devDependencies": {
-    "eslint": "8.12.0",
-    "eslint-config-next": "12.1.4"
+    "eslint": "^8.14.0"
   }
 }
