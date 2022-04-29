@@ -44,7 +44,7 @@ export const LeagalMentions = (props) => {
             facultatives pour la gestion de votre demande ; <br />- qui pourra
             en prendre connaissance ( uniquement C DU PROPRE PLUS en principe,
             sauf précision dans le formulaire lorsqu'une transmission à un tiers
-            est nécessaire à la gestion de votre demande ) ; <br />
+            est nécessaire à la gestion de votre demande ); <br />
             <br />
             Chaque soumission via un formulaire fait l'objet d'un consentement.
             Ce consentement est enregistré en base de données pendant une
