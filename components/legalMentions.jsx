@@ -8,7 +8,7 @@ export const LeagalMentions = (props) => {
         <div className="about-text">
           <h2>Mentions légales</h2>
           <p>
-            Les informations contenues sur le site www.?????????????.fr ont un
+            Les informations contenues sur le site cdupropreplus.fr ont un
             caractère strictement informatif, cette société se réserve le droit
             d’en modifier le contenu. <br />
             Le contenu du site (textes, images, sons, graphismes, documents
@@ -32,8 +32,9 @@ export const LeagalMentions = (props) => {
             nombre.
             <br />
             <br />
-            Politique de protection des données personnelles La société C DU PROPRE PLUS s'engage à ce que la collecte et le traitement de vos
-            données, effectués à partir du site www.????????????.fr, soient
+            Politique de protection des données personnelles La société C DU
+            PROPRE PLUS s'engage à ce que la collecte et le traitement de vos
+            données, effectués à partir du site cdupropreplus.fr, soient
             conformes au règlement général sur la protection des données (RGPD)
             et à la loi Informatique et Libertés. Chaque formulaire ou
             téléservice limite la collecte des données personnelles au strict
@@ -48,9 +49,9 @@ export const LeagalMentions = (props) => {
             Chaque soumission via un formulaire fait l'objet d'un consentement.
             Ce consentement est enregistré en base de données pendant une
             période d'un an. Les données personnelles recueillies dans le cadre
-            des services proposés sur www.?????????????.fr sont traitées selon
-            des protocoles sécurisés et permettent à C DU PROPRE PLUS de gérer
-            les demandes reçues dans ses applications informatiques. Pour toute
+            des services proposés sur cdupropreplus.fr sont traitées selon des
+            protocoles sécurisés et permettent à C DU PROPRE PLUS de gérer les
+            demandes reçues dans ses applications informatiques. Pour toute
             information ou exercice de vos droits Informatique et Libertés sur
             les traitements de données personnelles gérés par C DU PROPRE PLUS,
             et notamment la suppression de vos données personnelles, vous pouvez
